@@ -1,4 +1,4 @@
-### “- Abe Sapien: Behind this door, a dark entity. Evil, ancient and hungry. - Hellboy: Oh, well. Let me go in and say hi.”
+### “- Abe Sapien: Behind this door, a dark entity. Evil, ancient and hungry.
 
 - 🔭 I’m currently working on Task Keeper, which is a project focused on reducing procrastination using gamification
 - 📫 Contact Me: Email - ethan_w_wilde@outlook.com
